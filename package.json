@@ -3,7 +3,7 @@
   "private": false,
   "version": "2.9.1",
   "description": "React hook library, ready to use, written in Typescript.",
-  "author": "Julien CARON <juliencaron@protonmail.com>",
+  "author": "Arun Sagar",
   "homepage": "https://usehooks-ts.com",
   "keywords": [
     "typescript",
@@ -76,9 +76,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/juliencrn/usehooks-ts"
+    "url": "https://github.com/arunsagarmagic/usehooks-ts"
   },
   "bugs": {
-    "url": "https://github.com/juliencrn/usehooks-ts/issues"
+    "url": "https://github.com/arunsagarmagic/usehooks-ts/issues"
   }
 }
