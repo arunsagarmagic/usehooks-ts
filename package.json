@@ -10,6 +10,9 @@
     "react",
     "hooks"
   ],
+  "publishConfig": {
+   "@arunsagarmagic:registry": "https://npm.pkg.github.com"
+ }
   "license": "MIT",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
