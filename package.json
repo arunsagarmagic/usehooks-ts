@@ -1,5 +1,5 @@
 {
-  "name": "usehooks-ts",
+  "name": "@arunsagarmagic/usehooks-ts",
   "private": false,
   "version": "1.0.2",
   "description": "React hook library, ready to use, written in Typescript.",
